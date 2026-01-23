@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v0.25.2 (2026-01-23)
+
+### Bug Fixes
+
+- Add missing CNV device ID
+  ([`f538ebd`](https://github.com/intel/mfd-const/commit/f538ebd12fa40689fa67559eb143d9887ea9ee1d))
+
+
 ## v0.25.1 (2025-11-17)
 
 ### Bug Fixes
