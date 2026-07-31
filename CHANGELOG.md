@@ -2,6 +2,24 @@
 
 <!-- version list -->
 
+## v0.26.0 (2026-07-31)
+
+### Chores
+
+- Bump pytest and mfd-code-quality requirements
+  ([`e75201e`](https://github.com/intel/mfd-const/commit/e75201efab8baefa5051cb12ed8d52c8dc87ba12))
+
+### Continuous Integration
+
+- Align GitHub Actions with shared workflows
+  ([`ca20fd8`](https://github.com/intel/mfd-const/commit/ca20fd834be5dbce95ed471210ffb8a5368534b1))
+
+### Features
+
+- Added SVL (Summitville) support to network.py
+  ([`ada9ce0`](https://github.com/intel/mfd-const/commit/ada9ce028d80d475c105ae9acd2ba7da56c0399e))
+
+
 ## v0.25.2 (2026-01-23)
 
 ### Bug Fixes
